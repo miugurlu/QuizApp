@@ -1,0 +1,34 @@
+{
+    "sorular": [
+        {
+            "id": 1,
+            "soru": "Hangisi bir meyve değildir?",
+            "secenekler": ["Marul", "Domates", "Elma", "Muz"],
+            "dogru_cevap": 0
+        },
+        {
+            "id": 2,
+            "soru": "Hangisi yaz mevsimi ayıdır?",
+            "secenekler": ["Mayıs", "Temmuz", "Eylül", "Ocak"],
+            "dogru_cevap": 1
+        },
+        {
+            "id": 3,
+            "soru": "Yetişkin insan vücudunda kaç kemik vardır?",
+            "secenekler": ["270", "206", "195", "180"],
+            "dogru_cevap": 1
+        },
+        {
+            "id": 4,
+            "soru": "Aşağıdaki gezegenlerden hangisi Güneş'e en yakındır?",
+            "secenekler": ["Jüpiter", "Mars", "Dünya", "Venüs"],
+            "dogru_cevap": 3
+        },
+        {
+            "id": 5,
+            "soru": "Hangisi asal sayı değildir",
+            "secenekler": ["2", "89", "94", "107"],
+            "dogru_cevap": 2
+        }
+    ]
+}
